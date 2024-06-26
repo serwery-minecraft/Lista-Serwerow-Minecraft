@@ -1,14 +1,14 @@
 
 # Lista serwerów minecraft
 Dane z [lista serwerów minecraft](https://mcserwery.pl/)
-Ostatnia aktualizacja 2024-06-26 13:24
+Ostatnia aktualizacja 2024-06-26 14:24
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 143/2000 | 46 |
-| 2 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.21 Survival OneBlock ChestPvP BoxPvP MegaDrop Dzialki SkyBlock PvP Gildie 1.7 1.7.2 1.7.10 1.8 1.8.8 1.8.9 1.9 1.10 1. | 620/0 | 48 |
+| 2 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.21 Survival OneBlock ChestPvP BoxPvP MegaDrop Dzialki SkyBlock PvP Gildie 1.7 1.7.2 1.7.10 1.8 1.8.8 1.8.9 1.9 1.10 1. | 631/0 | 48 |
 | 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴀ ʙᴏxᴘᴠᴘ: ɴᴏᴡᴇ ꜱᴇᴛʏ & ᴘᴏᴘʀᴀᴡᴋɪ! | 1293/2000 | 200 |
 | 4 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.21 » Zapraszamy » PvP » Ekonomia » Brak mikrotransakcji/P2W | 0/50 | 112 |
-| 5 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP MegaDrop Gildie MEGAENCHANT SKYBLOCK FREEBUILD CREATIVE PVP MINIGAMES | 223/100 | 85 |
+| 5 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP MegaDrop Gildie MEGAENCHANT SKYBLOCK FREEBUILD CREATIVE PVP MINIGAMES | 211/100 | 85 |
 | 6 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) |  FROOSTMC » Wbijaj na potezny serwer! 1.8-1.20 Nowe itemy w skrzynkach na AnarchiaSMP! | 0/750 | 13 |
 | 7 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Blad pobierania statusu. Polacz sie bezposrednio! | 0/1 | 11 |
 | 8 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ [289k] ► [⛏] ʙᴏхᴘᴠᴘ  [🗡] ᴀɴᴀʀᴄʜɪᴀ ѕᴍᴘ  [🎣] ᴏɴᴇʙʟᴏᴄᴋ ◄ | 3955/3955 | 10 |
@@ -16,7 +16,7 @@ Ostatnia aktualizacja 2024-06-26 13:24
 | 10 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 1.21 wydane - to oznacza przyszle nowe edycje ;) | 184/500 | 4 |
 | 11 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & KretMC.pl  ItemShop kretmc.pl & GenBlock >> Start I edycji 5 lipca 18:00 | 48/1000 | 4 |
 | 12 | 	[axolotlmc.pl](https://mcserwery.pl/serwery/minecraft/251/) | AxolotlMC ❤ Survival bez griefu i resetów map.internet > kuti ~swagsuri ✨ | 7/25 | 4 |
-| 13 | 	[minerush.pl](https://mcserwery.pl/serwery/minecraft/749/) | Serwer nie posiada motd | 270/1000 | 4 |
+| 13 | 	[minerush.pl](https://mcserwery.pl/serwery/minecraft/749/) | Serwer nie posiada motd | 266/1000 | 4 |
 | 14 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) |   mc-vision.pl  Darmowy SuperVIP /supervip  NOWA EDYCJA 1.20.4  | 2/2024 | 3 |
 | 15 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- i ᴡᴀᴋᴀᴄʏᴊɴᴀ ꜱᴋʀᴢʏɴɪᴀ ➡ ᴀxᴇʟᴄʀᴀꜰᴛ.ᴘʟ/ꜱᴋʟᴇᴘ i | 308/1000 | 3 |
 | 16 | 	[mineblaze.pl](https://mcserwery.pl/serwery/minecraft/751/) | Serwer nie posiada motd | 270/1000 | 3 |
