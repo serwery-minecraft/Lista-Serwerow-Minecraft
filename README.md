@@ -1,7 +1,7 @@
 
 # Lista serwerów minecraft
 Dane z [lista serwerów minecraft](https://mcserwery.pl/)
-Ostatnia aktualizacja 2024-07-19 15:24
+Ostatnia aktualizacja 2024-07-19 16:24
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 142/2000 | 49 |
@@ -29,8 +29,8 @@ Ostatnia aktualizacja 2024-07-19 15:24
 | 23 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16]  ⛏ Survival 1.20.4 ⛏  x3 ᴋʟᴜᴄᴢ ᴢᴡʏᴋʟʏ 19:00 | 206/500 | 2 |
 | 24 | 	[beehc.pl](https://mcserwery.pl/serwery/minecraft/227/) | Serwer nie posiada motd | 149/1000 | 2 |
 | 25 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 75/500 | 2 |
-| 26 | 	[kingdomcraft.pl](https://mcserwery.pl/serwery/minecraft/324/) | KingdomCraft » Najlepszy serwer KingdomHC+!  » Zapraszamy na discorda: dc.kingdomcraft.pl « | 3/100 | 2 |
-| 27 | 	[craftdream.pl](https://mcserwery.pl/serwery/minecraft/746/) | ← ᴢɴᴀѕᴢ ɢᴏ? » Wejdz na naszego discord! CraftDream.pl » dc.craftdream.pl!! | 8/9 | 2 |
-| 28 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | NajsMC.pl » ᴡꜱᴢʏꜱᴛᴋɪᴇ ᴀᴋᴛᴜᴀʟɴᴏśᴄɪ ɴᴀ ᴅᴄ.ɴᴀᴊꜱᴍᴄ.ᴘʟʙᴇᴛᴀ-ᴛᴇsᴛʏ sᴋʏɢᴇɴᴀ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟʏ! | 0/1500 | 2 |
-| 29 | 	[koronalia.pl](https://mcserwery.pl/serwery/minecraft/654/) | Craftserve.pl - wydajny hosting Minecraft! Testuj za darmo przez 24h! | 0/1 | 2 |
-| 30 | 	[easysurvival.pl](https://mcserwery.pl/serwery/minecraft/736/) | ES  DZIEKUJEMY ZA PIERWSZA EDYCJE! ❤ » Zmieniaj wersje na 1.16.5 i wbijaj! :> | 0/1 | 2 |
+| 26 | 	[craftdream.pl](https://mcserwery.pl/serwery/minecraft/746/) | ← ᴢɴᴀѕᴢ ɢᴏ? » Wejdz na naszego discord! CraftDream.pl » dc.craftdream.pl!! | 8/9 | 2 |
+| 27 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | NajsMC.pl » ᴡꜱᴢʏꜱᴛᴋɪᴇ ᴀᴋᴛᴜᴀʟɴᴏśᴄɪ ɴᴀ ᴅᴄ.ɴᴀᴊꜱᴍᴄ.ᴘʟʙᴇᴛᴀ-ᴛᴇsᴛʏ sᴋʏɢᴇɴᴀ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟʏ! | 0/1500 | 2 |
+| 28 | 	[koronalia.pl](https://mcserwery.pl/serwery/minecraft/654/) | Craftserve.pl - wydajny hosting Minecraft! Testuj za darmo przez 24h! | 0/1 | 2 |
+| 29 | 	[easysurvival.pl](https://mcserwery.pl/serwery/minecraft/736/) | ES  DZIEKUJEMY ZA PIERWSZA EDYCJE! ❤ » Zmieniaj wersje na 1.16.5 i wbijaj! :> | 0/1 | 2 |
+| 30 | 	[mc.silvania.pl](https://mcserwery.pl/serwery/minecraft/752/) | --- [ SILVANIA 1.21 ] --- DOLACZ, I ZACZNIJ NOWA PRZYGODE! | 0/100 | 2 |
