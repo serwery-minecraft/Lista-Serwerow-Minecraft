@@ -1,36 +1,36 @@
 
 # Lista serwerów minecraft
 Dane z [lista serwerów minecraft](https://mcserwery.pl/)
-Ostatnia aktualizacja 2024-09-05 11:18
+Ostatnia aktualizacja 2024-09-05 12:18
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoxPvP ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 21/2000 | 49 |
-| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ ꜱtrona WWW: craftmc.pl Nowa edycja SV+Gildie start PIĄTEK 18:00! | 409/2000 | 258 |
-| 3 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.21.1 » Zapraszamy » PvP + Ekonomia » Brak mikrotransakcji/P2W | 0/50 | 179 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoxPvP ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 27/2000 | 49 |
+| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ ꜱtrona WWW: craftmc.pl Nowa edycja SV+Gildie start PIĄTEK 18:00! | 420/2000 | 259 |
+| 3 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.21.1 » Zapraszamy » PvP + Ekonomia » Brak mikrotransakcji/P2W | 1/50 | 179 |
 | 4 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | DZISIAJ O 20:00 KONIEC EDY! DC.KOCIAKMC.PL KOCIAKMC.PL [SV+EKO+DZIAŁKI 1.20.4] 🚀😊 | 0/100 | 31 |
-| 5 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ ► [⛏] ʙᴏхᴘᴠᴘ  [🗡] ᴀɴᴀʀᴄʜɪᴀ ѕᴍᴘ  [🎣] ᴏɴᴇʙʟᴏᴄᴋ ◄ | 1634/1634 | 19 |
-| 6 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.21.1 🠆 WPADAJ NA NOWA EDYCJE 1.21! 🠄 | 116/1000 | 10 |
-| 7 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza sieć ███ Odbierz DARMOWEGO VIPA na TowerPvP! /freevip | 12/1337 | 8 |
+| 5 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ ► [⛏] ʙᴏхᴘᴠᴘ  [🗡] ᴀɴᴀʀᴄʜɪᴀ ѕᴍᴘ  [🎣] ᴏɴᴇʙʟᴏᴄᴋ ◄ | 1656/1656 | 19 |
+| 6 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.21.1 🠆 WPADAJ NA NOWA EDYCJE 1.21! 🠄 | 126/1000 | 10 |
+| 7 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza sieć ███ Odbierz DARMOWEGO VIPA na TowerPvP! /freevip | 14/1337 | 8 |
 | 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | ☄ INKMC.PL » Strona WWW: InkMC.pl ☄ ᴋᴏsᴍɪᴄᴢɴʏ ᴜᴘᴅᴀᴛᴇ ɴᴀ ᴇᴀʀᴛʜsᴍᴘ ᴊᴜᴢ ᴊᴇsᴛ, ᴡᴘᴀᴅᴀᴊ! | 207/208 | 7 |
-| 9 | 	[beehc.pl](https://mcserwery.pl/serwery/minecraft/227/) | Serwer nie posiada motd | 20/1000 | 7 |
-| 10 | 	[axolotlmc.pl](https://mcserwery.pl/serwery/minecraft/251/) | AxolotlMC ❤ Survival bez griefu i resetów map.Kuti 0 ~kul2 ✨ | 0/20 | 7 |
+| 9 | 	[beehc.pl](https://mcserwery.pl/serwery/minecraft/227/) | Serwer nie posiada motd | 14/1000 | 7 |
+| 10 | 	[axolotlmc.pl](https://mcserwery.pl/serwery/minecraft/251/) | AxolotlMC ❤ Survival bez griefu i resetów map.Vanilla like survival bez zbędnych dodatków. ✨ | 0/20 | 7 |
 | 11 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) | Survival, Frakcje, DziaBki - Promocja\! Darmowy ProVIP - wpisz /promocja Wersja 1.8-1.21 Wbijaj\! | 1/2024 | 6 |
-| 12 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21 ⭐ ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʙɪᴊᴀᴊ | 21/500 | 5 |
+| 12 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21 ⭐ ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʙɪᴊᴀᴊ | 19/500 | 5 |
 | 13 | 	[hienatm.pl](https://mcserwery.pl/serwery/minecraft/764/) | HienaTM.PL - Nie maruj wakacji, wbij do nas! Nowości + codzienne klucze o 18:00! | 3/30 | 5 |
-| 14 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × ꜱᴋʟᴇᴘ: ᴡᴡᴡ.ᴄʀᴀꜰᴛᴄᴜʙᴇ.ᴘʟ!  ᴀɴᴀʀᴄʜɪᴀ-ᴘʀᴀᴄ » ꜰʀᴇᴇ ᴇʟɪᴛᴀ: /ʀᴇᴋᴏᴍᴘᴇɴꜱᴀᴛᴀ | 455/2115 | 4 |
+| 14 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × ꜱᴋʟᴇᴘ: ᴡᴡᴡ.ᴄʀᴀꜰᴛᴄᴜʙᴇ.ᴘʟ!  ᴀɴᴀʀᴄʜɪᴀ-ᴘʀᴀᴄ » ꜰʀᴇᴇ ᴇʟɪᴛᴀ: /ʀᴇᴋᴏᴍᴘᴇɴꜱᴀᴛᴀ | 478/2115 | 4 |
 | 15 | 	[s1.icsv.pl](https://mcserwery.pl/serwery/minecraft/286/) |  s1.MCKC.PL × Siec serwerow minecraft 1.8 - 1.21 SURVIVAL  ONEBLOCK  BOXPVP  MEGADROP  ⭐ LIFESTEAL  ANARCHIA  PVP  MEGAENCHANT  CHESTPVP  MINIGRY  SKYBLOCK  GIL | 2475/0 | 4 |
 | 16 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 10/500 | 4 |
-| 17 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- ꜱᴋʀᴢʏɴɪᴀ ꜱᴢᴋᴏʟᴀ 2024 ➡ ᴀxᴇʟᴄʀᴀꜰᴛ.ᴘʟ/ꜱᴋʟᴇᴘ | 77/1000 | 3 |
+| 17 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- ꜱᴋʀᴢʏɴɪᴀ ꜱᴢᴋᴏʟᴀ 2024 ➡ ᴀxᴇʟᴄʀᴀꜰᴛ.ᴘʟ/ꜱᴋʟᴇᴘ | 101/1000 | 3 |
 | 18 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | Serwer nie posiada motd | 2/200 | 3 |
 | 19 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  1.8 - 1.20.4 Zapraszamy do gry! | 175/20000 | 2 |
-| 20 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Survival 1.21 już wystartował!  START MEGADROP 1.16.5+ SOBOTA 18:00 BEZ SETOW 5 » Graczy: {ONLINE_PLAYERS}/2000 « | 71/72 | 2 |
-| 21 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × Nowa Edycja BoxPvP w piątek o 20:00! Zapraszamy | 101/105 | 2 |
-| 22 | 	[krainamc.pl](https://mcserwery.pl/serwery/minecraft/39/) | KrainaMc.pl  Zagraj juz teraz razem z nami! | 2/500 | 2 |
-| 23 | 	[swiftcore.pl](https://mcserwery.pl/serwery/minecraft/60/) | Serwer nie posiada motd | 1/100 | 2 |
-| 24 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! Konkursy i eventy " Questy " Dzialki " WBIJAJ! | 26/777 | 2 |
-| 25 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & KretMC.pl  ItemShop kretmc.pl & MNÓSTWO kluczy Czwartek 18:00 | 4/1000 | 2 |
-| 26 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | ɴᴀᴊsᴍᴄ.ᴘʟ ➡ ᴅᴢɪsɪᴀᴊ 18:00 sᴢᴋᴏʟɴʏ ᴇᴠᴇɴᴛ  ▪ ᴛᴏ ᴄᴏ ɴᴀᴊs ᴢᴀ 40ᴘʟɴ? zᴀᴋᴜᴘ ʀᴀɴɢę ᴜᴄᴢᴇń! ▪ | 28/1500 | 2 |
-| 27 | 	[bedwarspractice.club](https://mcserwery.pl/serwery/minecraft/283/) | Bedwars Practice [1.8-1.21] BOT UPDATE | 87/1 | 2 |
-| 28 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | ✅ HARDSMP.EU ✅ [1.19-1.21] 🌌 Event Back2School na BOXPVP! 🌌 | 15/1000 | 2 |
-| 29 | 	[anarchiaffa.pl](https://mcserwery.pl/serwery/minecraft/750/) | ANARCHIAFFA.PL ---> SUPERMC.PL DUZY KEY ALL -> 16:00 17:00 18:00 19:00 20:00 | 37/500 | 2 |
-| 30 | 	[supermc.pl](https://mcserwery.pl/serwery/minecraft/771/) | ANARCHIAFFA.PL ---> SUPERMC.PL DUZY KEY ALL -> 16:00 17:00 18:00 19:00 20:00 | 179/500 | 2 |
+| 20 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Survival 1.21 już wystartował!  START MEGADROP 1.16.5+ SOBOTA 18:00 BEZ SETOW 5 » Graczy: {ONLINE_PLAYERS}/2000 « | 82/83 | 2 |
+| 21 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Nowa Edycja BoxPvP w piątek o 20:00! Zapraszamy | 120/124 | 2 |
+| 22 | 	[krainamc.pl](https://mcserwery.pl/serwery/minecraft/39/) | KrainaMc.pl  Zagraj juz teraz razem z nami! | 3/500 | 2 |
+| 23 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! Konkursy i eventy " Questy " Dzialki " WBIJAJ! | 39/777 | 2 |
+| 24 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & KretMC.pl  ItemShop kretmc.pl & MNÓSTWO kluczy Czwartek 18:00 | 7/1000 | 2 |
+| 25 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | ɴᴀᴊsᴍᴄ.ᴘʟ ➡ ᴅᴢɪsɪᴀᴊ 18:00 sᴢᴋᴏʟɴʏ ᴇᴠᴇɴᴛ  ▪ ᴛᴏ ᴄᴏ ɴᴀᴊs ᴢᴀ 40ᴘʟɴ? zᴀᴋᴜᴘ ʀᴀɴɢę ᴜᴄᴢᴇń! ▪ | 28/1500 | 2 |
+| 26 | 	[bedwarspractice.club](https://mcserwery.pl/serwery/minecraft/283/) | Bedwars Practice [1.8-1.21] BOT UPDATE | 117/1 | 2 |
+| 27 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | ✅ HARDSMP.EU ✅ [1.19-1.21] 🌌 Event Back2School na BOXPVP! 🌌 | 15/1000 | 2 |
+| 28 | 	[anarchiaffa.pl](https://mcserwery.pl/serwery/minecraft/750/) | ANARCHIAFFA.PL ---> SUPERMC.PL DUZY KEY ALL -> 16:00 17:00 18:00 19:00 20:00 | 39/500 | 2 |
+| 29 | 	[supermc.pl](https://mcserwery.pl/serwery/minecraft/771/) | ANARCHIAFFA.PL ---> SUPERMC.PL DUZY KEY ALL -> 16:00 17:00 18:00 19:00 20:00 | 37/500 | 2 |
+| 30 | 	[swiftcore.pl](https://mcserwery.pl/serwery/minecraft/60/) | Serwer nie posiada motd | 0/100 | 2 |
