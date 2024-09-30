@@ -1,36 +1,36 @@
 
 # Lista serwerów minecraft
 Dane z [lista serwerów minecraft](https://mcserwery.pl/)
-Ostatnia aktualizacja 2024-09-30 18:19
+Ostatnia aktualizacja 2024-09-30 19:19
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoxPvP NOWA EDYCJA WYSTARTOWALA | 208/2000 | 49 |
-| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA ONEBLOCK 1.21 JUż WYSTARTOWALA | 1572/2000 | 280 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoxPvP NOWA EDYCJA WYSTARTOWALA | 215/2000 | 49 |
+| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA ONEBLOCK 1.21 JUż WYSTARTOWALA | 1684/2000 | 280 |
 | 3 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] " 1.8 - 1.21.1 " PvP + Ekonomia " Trwa rekrutacja " Brak mikrotransakcji/P2W | 0/50 | 196 |
-| 4 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | DZIŚ 18:00 ROZDANIE DIAX KLUCZY DC.KOCIAKMC.PL KOCIAKMC.PL [SV+EKO+DZIAŁKI 1.21.1] 🚀😊 | 20/100 | 31 |
-| 5 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG " WBIJAJ NA DC.ANARCHIA.GG ► [⛏] BOхPVP  [🗡] ANARCHIA ѕMP  [🎣] ONEBLOCK ◄ | 4603/4603 | 20 |
-| 6 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL " Strona: InkMC.pl, kod PREZENT -25% TRYB sURVIVAL 1.21.1 WYsTARTOWAL, ZAPRAsZAMY! :D | 1254/1255 | 11 |
-| 7 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & KretMC.pl  ItemShop kretmc.pl & Stoimy na Hostingu PepeHost.pl | 58/1000 | 11 |
-| 8 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.21.1 LEGENDARNE KLUCZE NA WSZYSTKICH TRYBACH O 18:00 | 491/1000 | 10 |
-| 9 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza siec ███ Wlasnie wystartowala NOWA EDYCJA BOXPVP! <--- | 60/1337 | 9 |
-| 10 | 	[mc.cs2pl.pl](https://mcserwery.pl/serwery/minecraft/783/) | MCK  Selekcja [Survival] CS2PL.pl | 8/60 | 8 |
-| 11 | 	[beehc.pl](https://mcserwery.pl/serwery/minecraft/227/) | Serwer nie posiada motd | 89/1000 | 7 |
+| 4 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | DZIŚ 18:00 ROZDANIE DIAX KLUCZY DC.KOCIAKMC.PL KOCIAKMC.PL [SV+EKO+DZIAŁKI 1.21.1] 🚀😊 | 23/100 | 31 |
+| 5 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG " WBIJAJ NA DC.ANARCHIA.GG ► [⛏] BOхPVP  [🗡] ANARCHIA ѕMP  [🎣] ONEBLOCK ◄ | 4681/4681 | 20 |
+| 6 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL " Strona: InkMC.pl, kod PREZENT -25% TRYB sURVIVAL 1.21.1 WYsTARTOWAL, ZAPRAsZAMY! :D | 1234/1235 | 11 |
+| 7 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & KretMC.pl  ItemShop kretmc.pl & Stoimy na Hostingu PepeHost.pl | 76/1000 | 11 |
+| 8 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.21.1 LEGENDARNE KLUCZE NA WSZYSTKICH TRYBACH O 18:00 | 504/1000 | 10 |
+| 9 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza siec ███ Wlasnie wystartowala NOWA EDYCJA BOXPVP! <--- | 71/1337 | 9 |
+| 10 | 	[mc.cs2pl.pl](https://mcserwery.pl/serwery/minecraft/783/) | MCK  Selekcja [Survival] CS2PL.pl | 6/60 | 8 |
+| 11 | 	[beehc.pl](https://mcserwery.pl/serwery/minecraft/227/) | Serwer nie posiada motd | 116/1000 | 7 |
 | 12 | 	[axolotlmc.pl](https://mcserwery.pl/serwery/minecraft/251/) | AxolotlMC ❤ Survival bez griefu i resetow map.Vanilla like survival bez zbednych dodatkow. ✨ | 0/20 | 7 |
-| 13 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) | Survival, Frakcje, DziaBki - Promocja\! Darmowy ProVIP - wpisz /promocja Wersja 1.8-1.21 Wbijaj\! | 2/2024 | 6 |
-| 14 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & KretMC.pl  ItemShop kretmc.pl & Stoimy na Hostingu PepeHost.pl | 65/1000 | 5 |
-| 15 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21 ⭐ NOWA EDYCJA WBIJAJ | 192/500 | 5 |
+| 13 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) | Survival, Frakcje, DziaBki - Promocja\! Darmowy ProVIP - wpisz /promocja Wersja 1.8-1.21 Wbijaj\! | 1/2024 | 6 |
+| 14 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & KretMC.pl  ItemShop kretmc.pl & Stoimy na Hostingu PepeHost.pl | 80/1000 | 5 |
+| 15 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21 ⭐ NOWA EDYCJA WBIJAJ | 249/500 | 5 |
 | 16 | 	[hienatm.pl](https://mcserwery.pl/serwery/minecraft/764/) | HienaTM.PL - Darmowe klucze o 19:00 TRYB MULTIBLOCK JUŻ WYSTARTOWAŁ! | 2/30 | 5 |
 | 17 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × SKLEP: WWW.CRAFTCUBE.PL!  NOWA EDYCJA SURVIVAL 1.20 JUZ WYSTARTOWALA! | 2254/2115 | 4 |
-| 18 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]---  Wbij i zagraj z nami na nowym SKYBLOCK 1.21  | 305/1000 | 4 |
-| 19 | 	[s1.icsv.pl](https://mcserwery.pl/serwery/minecraft/286/) |  s1.MCKC.PL × Siec serwerow minecraft 1.8 - 1.21 SURVIVAL  ONEBLOCK  BOXPVP  ANARCHIA  ⭐ LIFESTEAL  MEGADROP  PVP  MEGAENCHANT  CHESTPVP  MINIGRY  SKYBLOCK  GIL | 3327/0 | 4 |
+| 18 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- i Wbij i zostan graczem TOP1 na SKYBLOCK 1.21 i | 363/1000 | 4 |
+| 19 | 	[s1.icsv.pl](https://mcserwery.pl/serwery/minecraft/286/) |  s1.MCKC.PL × Siec serwerow minecraft 1.8 - 1.21 SURVIVAL  ONEBLOCK  BOXPVP  ANARCHIA  ⭐ LIFESTEAL  MEGADROP  PVP  MEGAENCHANT  CHESTPVP  MINIGRY  SKYBLOCK  GIL | 3114/0 | 4 |
 | 20 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 91/500 | 4 |
-| 21 | 	[WojanowiceMC.pl](https://mcserwery.pl/serwery/minecraft/163/) | ■ WOJANOWICEMC.PL ■ ➔ [1.19-1.21] ➥ 4 SEZON WYSTARTOWAL  ZAPRASZAMY! ❤ | 7/1000 | 3 |
-| 22 | 	[clearmc.pl](https://mcserwery.pl/serwery/minecraft/194/) | CLEARMC.PL × WEJDz NA DC.CLEARMC.PL PIERWSZY MOBTYCOON W POLSCE WBIJAJ! | 974/3000 | 3 |
+| 21 | 	[WojanowiceMC.pl](https://mcserwery.pl/serwery/minecraft/163/) | ■ WOJANOWICEMC.PL ■ ➔ [1.19-1.21] ➥ 4 SEZON WYSTARTOWAL  ZAPRASZAMY! ❤ | 4/1000 | 3 |
+| 22 | 	[clearmc.pl](https://mcserwery.pl/serwery/minecraft/194/) | CLEARMC.PL × WEJDz NA DC.CLEARMC.PL PIERWSZY MOBTYCOON W POLSCE WBIJAJ! | 988/3000 | 3 |
 | 23 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | × WOJANMC.PL × DZIsIAJ DZIEn CHLOPAKA! × LEGE KLUCZE ► 18:00 / 19:00 / 20:00 </gradient></u> >> | 731/2000 | 3 |
 | 24 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | Serwer nie posiada motd | 29/200 | 3 |
-| 25 | 	[supermc.pl](https://mcserwery.pl/serwery/minecraft/771/) | ANARCHIAFFA.PL ---> SUPERMC.PL DUZY KEY ALL -> 16:00 17:00 18:00 19:00 20:00 | 80/500 | 3 |
-| 26 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  1.8 - 1.20.6 Ostatni dzien zdobywania Kredek w Evencie Szkolnym! | 2147/20000 | 2 |
-| 27 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb: MegaDrop 1.8.8 już WYSTARTOWAL! :) :D " Graczy: {ONLINE_PLAYERS}/2000 " | 455/456 | 2 |
+| 25 | 	[supermc.pl](https://mcserwery.pl/serwery/minecraft/771/) | ANARCHIAFFA.PL ---> SUPERMC.PL DUZY KEY ALL -> 16:00 17:00 18:00 19:00 20:00 | 86/500 | 3 |
+| 26 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  1.8 - 1.20.6 Ostatni dzien zdobywania Kredek w Evencie Szkolnym! | 2666/20000 | 2 |
+| 27 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb: MegaDrop 1.8.8 już WYSTARTOWAL! :) :D " Graczy: {ONLINE_PLAYERS}/2000 " | 434/435 | 2 |
 | 28 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | NETHERSTORM ツ STRONA WWW: WWW.NSSV.PL × PvP: Zagraj na nowej edycji najlepszego PvP! | 320/324 | 2 |
-| 29 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.21.1 Zadania ' Ekonomia ' Dzialki ' Łowienie ' Eventy | 35/200 | 2 |
-| 30 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! BOOST EKONOMII NA BOxPVP I SKYPVP JUZ DOSTEPNY! | 1859/1 | 2 |
+| 29 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.21.1 Zadania ' Ekonomia ' Dzialki ' Łowienie ' Eventy | 31/200 | 2 |
+| 30 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! BOOST EKONOMII NA BOxPVP I SKYPVP JUZ DOSTEPNY! | 1903/1 | 2 |
