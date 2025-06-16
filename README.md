@@ -1,19 +1,19 @@
 
 # Lista serwerów minecraft
 Dane z [lista serwerów minecraft](https://mcserwery.pl/)
-Ostatnia aktualizacja 2025-06-16 14:14
+Ostatnia aktualizacja 2025-06-16 15:14
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 346/2000 | 65 |
-| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 466/500 | 154 |
-| 3 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | KOCIAKMC.PL 🚀 [SV+EKO+DZIAŁKI 1.21.4] 🚀 DZIŚ 18:30 EVENT TNTRUN O NAGRODY!! | 47/180 | 33 |
-| 4 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA DROPSMP 1.21 JUż WYSTARTOWALA! | 1199/2000 | 496 |
-| 5 | 	[clearmc.pl](https://mcserwery.pl/serwery/minecraft/194/) | ★ CLEARMC → NAJWIęKSZY DUELS W POLSCE ★ NOWA EDYCJA ANARCHIA FFA JUż WYSTARTOWALA | 594/3000 | 228 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 438/2000 | 65 |
+| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 547/500 | 154 |
+| 3 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | KOCIAKMC.PL 🚀 [SV+EKO+DZIAŁKI 1.21.4] 🚀 DZIŚ 18:30 EVENT TNTRUN O NAGRODY!! | 61/180 | 33 |
+| 4 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA DROPSMP 1.21 JUż WYSTARTOWALA! | 1713/2000 | 497 |
+| 5 | 	[clearmc.pl](https://mcserwery.pl/serwery/minecraft/194/) | ★ CLEARMC → NAJWIęKSZY DUELS W POLSCE ★ NOWA EDYCJA ANARCHIA FFA JUż WYSTARTOWALA | 1080/3000 | 228 |
 | 6 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & KretMC.pl  Pakiety KRETA » kretmc.pl & Earth SMP » 12 edycja właśnie wystartowała! | 40/1000 | 77 |
-| 7 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ↓ ANARCHIA.GG » WBIJAJ NA DC.ANARCHIA.GG ↓ [⛏] BOхPVP  [🗡] ANARCHIA ѕMP  [🎣] ONEBLOCK | 6518/6518 | 38 |
-| 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 302/303 | 27 |
-| 9 | 	[pykmc.pl](https://mcserwery.pl/serwery/minecraft/276/) | ⚡ PYKMC.PL → DOLACZ DO DC.PYKMC.PL ⚡ PYKNIJ NA NAJLEPѕZY ѕERWER [1.16.5-1.21.3] | 622/622 | 21 |
-| 10 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ☚ WBIJAJ DO NAs! INғO » KONIEC EVENTU NA BOXPVP | 133/2000 | 19 |
+| 7 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ↓ ANARCHIA.GG » WBIJAJ NA DC.ANARCHIA.GG ↓ [⛏] BOхPVP  [🗡] ANARCHIA ѕMP  [🎣] ONEBLOCK | 9283/9283 | 38 |
+| 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 554/555 | 27 |
+| 9 | 	[pykmc.pl](https://mcserwery.pl/serwery/minecraft/276/) | ⚡ PYKMC.PL → DOLACZ DO DC.PYKMC.PL ⚡ PYKNIJ NA NAJLEPѕZY ѕERWER [1.16.5-1.21.3] | 840/840 | 21 |
+| 10 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ☚ WBIJAJ DO NAs! INғO » KONIEC EVENTU NA BOXPVP | 220/2000 | 19 |
 | 11 | 	[gc2.pl](https://mcserwery.pl/serwery/minecraft/107/) | -- IP: GC2.PL -- ORYGINALNE TRYBY - NIEPRZERWANIE OD 2013r - | 18/2020 | 18 |
 | 12 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | 🔪 BFSMC.PL - Survival, OneBlock 1.21.4 🔪 START TRYBU DUELS 1.21 DZISIAJ 18:00 | 125/1000 | 16 |
 | 13 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ Już jest NOWA EDYCJA ANARCHIA PRAC! Wbijaj! | 75/1337 | 16 |
@@ -29,8 +29,8 @@ Ostatnia aktualizacja 2025-06-16 14:14
 | 23 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 223/2000 | 5 |
 | 24 | 	[bedwarspractice.club](https://mcserwery.pl/serwery/minecraft/283/) | Bedwars Practice [1.8-1.21.5] TECHNIQUE MAKER LEADERBOARDS! | 144/1 | 5 |
 | 25 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 49/500 | 5 |
-| 26 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! Graj tak jak Ci wygodnie. Dołącz teraz! | 31/1000 | 5 |
-| 27 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Wbijaj na OG Sezon BedWars Pillars of Fortune juz dostepne na SkyGames | 1175/20000 | 4 |
-| 28 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: -30% na rangi i pakiety! ❤ » NOWA POTEZNA EDYCJA WYSTARTOWALA! ❤ | 190/1000 | 4 |
-| 29 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁  SURVIVAL • EARTHSMP • KITPVP • ANARCHIA FFA | 46/1000 | 4 |
-| 30 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  ◄ SURVIVAL ┃ BOXPVP ┃ SKYBLOCK ┃ SKYGEN ► | 31/32 | 3 |
+| 26 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! Graj tak jak Ci wygodnie. Dołącz teraz! | 54/1000 | 5 |
+| 27 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Wbijaj na OG Sezon BedWars Pillars of Fortune juz dostepne na SkyGames | 2025/20000 | 4 |
+| 28 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: -30% na rangi i pakiety! ❤ » NOWA POTEZNA EDYCJA WYSTARTOWALA! ❤ | 337/1000 | 4 |
+| 29 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁  SURVIVAL • EARTHSMP • KITPVP • ANARCHIA FFA | 94/1000 | 4 |
+| 30 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  ◄ SURVIVAL ┃ BOXPVP ┃ SKYBLOCK ┃ SKYGEN ► | 43/44 | 3 |
