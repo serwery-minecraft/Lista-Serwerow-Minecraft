@@ -1,21 +1,21 @@
 
 # Lista serwerów minecraft
 Dane z [lista serwerów minecraft](https://mcserwery.pl/)
-Ostatnia aktualizacja 2025-06-25 16:14
+Ostatnia aktualizacja 2025-06-25 17:14
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 543/2000 | 65 |
-| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 586/500 | 154 |
-| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA MINEBLOCK JUż WYSTARTOWALA! | 2032/2000 | 505 |
-| 4 | 	[clearmc.pl](https://mcserwery.pl/serwery/minecraft/194/) | ★ CLEARMC → NAJWIęKSZY DUELS W POLSCE ★ NOWA EDYCJA ANARCHIA FFA JUż WYSTARTOWALA | 1090/3000 | 236 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 542/2000 | 65 |
+| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 547/500 | 154 |
+| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA SURVIVAL 1.21.5 START PIATEK 18:00! | 1970/2000 | 505 |
+| 4 | 	[clearmc.pl](https://mcserwery.pl/serwery/minecraft/194/) | ★ CLEARMC → NAJWIęKSZY DUELS W POLSCE ★ NOWA EDYCJA ANARCHIA FFA JUż WYSTARTOWALA | 1201/3000 | 236 |
 | 5 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & KretMC.pl  Mapa świata » dc.kretmc.pl & Earth SMP » 13 edycja wystartowała! | 73/1000 | 80 |
-| 6 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ↓ ANARCHIA.GG » WBIJAJ NA DC.ANARCHIA.GG ↓ [⛏] BOхPVP  [🗡] ANARCHIA ѕMP  [🎣] ONEBLOCK | 10761/10761 | 38 |
+| 6 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ↓ ANARCHIA.GG » WBIJAJ NA DC.ANARCHIA.GG ↓ [⛏] BOхPVP  [🗡] ANARCHIA ѕMP  [🎣] ONEBLOCK | 10134/10134 | 38 |
 | 7 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | KOCIAKMC.PL 🚀 [SV+EKO+DZIAŁKI 1.21.4] 🕒 Rekrutacja na Helpera! Dołącz na /discord | 82/180 | 33 |
-| 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 565/566 | 28 |
-| 9 | 	[pykmc.pl](https://mcserwery.pl/serwery/minecraft/276/) | ⚡ PYKMC.PL → DOLACZ DO DC.PYKMC.PL ⚡ PYKNIJ NA NAJLEPѕZY ѕERWER [1.16.5-1.21.3] | 793/793 | 21 |
+| 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 568/569 | 28 |
+| 9 | 	[pykmc.pl](https://mcserwery.pl/serwery/minecraft/276/) | ⚡ PYKMC.PL → DOLACZ DO DC.PYKMC.PL ⚡ PYKNIJ NA NAJLEPѕZY ѕERWER [1.16.5-1.21.3] | 784/784 | 21 |
 | 10 | 	[gc2.pl](https://mcserwery.pl/serwery/minecraft/107/) | -- IP: GC2.PL -- ORYGINALNE TRYBY - NIEPRZERWANIE OD 2013r - | 27/2020 | 19 |
-| 11 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ☚ WBIJAJ DO NAs! INғO » KONIEC EVENTU NA BOXPVP | 273/2000 | 19 |
-| 12 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ Wielki BOOST EKO X2 i DARMOWY SVIP na BoXPvP! | 81/1337 | 18 |
+| 11 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ☚ WBIJAJ DO NAs! INғO » KONIEC EVENTU NA BOXPVP | 265/2000 | 19 |
+| 12 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ Wielki BOOST EKO X2 i DARMOWY SVIP na BoXPvP! | 63/1337 | 18 |
 | 13 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | 🔪 BFSMC.PL - Survival, OneBlock 1.21.4 🔪 GIGA AKTUALIZACJA DUELS 1.21 WBIJAJ! | 184/1000 | 17 |
 | 14 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × NAJLEPSZE CHESTPVP! ♥ CHESTPVP ➦ ZDOBYWAJ SKARBY I PODBIJ SERWER! ★ | 2146/5000 | 12 |
 | 15 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | CraftBlock.pl » Survival 1.21.4 ¦ BedWars ¦ Zapraszamy do wspólnej gry na serwerze! | 260/400 | 12 |
@@ -29,8 +29,8 @@ Ostatnia aktualizacja 2025-06-25 16:14
 | 23 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 365/2000 | 5 |
 | 24 | 	[bedwarspractice.club](https://mcserwery.pl/serwery/minecraft/283/) | Bedwars Practice [1.8-1.21.5] TECHNIQUE MAKER LEADERBOARDS! | 238/1 | 5 |
 | 25 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 46/500 | 5 |
-| 26 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! Graj tak jak Ci wygodnie. Dołącz teraz! | 73/1000 | 5 |
-| 27 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ OG SKYGEN wystartowal! Zagraj na Pillars of Fortune! | 3823/20000 | 4 |
-| 28 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: WSPARCIE 1.21.6! ❤ » Wygraj PSC i Rangi na dc.cpvp.pl ❤ | 289/1000 | 4 |
-| 29 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁  SURVIVAL • EARTHSMP • KITPVP • ANARCHIA FFA | 76/1000 | 4 |
-| 30 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  ◄ SURVIVAL ┃ BOXPVP ┃ SKYBLOCK ┃ SKYGEN ► | 43/44 | 3 |
+| 26 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! Graj tak jak Ci wygodnie. Dołącz teraz! | 66/1000 | 5 |
+| 27 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Update OG SKYGEN Piatek 20:00 WAKACYJY SEZON BedWars Piatek 19:00 | 3517/20000 | 4 |
+| 28 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: WSPARCIE 1.21.6! ❤ » Wygraj PSC i Rangi na dc.cpvp.pl ❤ | 471/1000 | 4 |
+| 29 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁  SURVIVAL • EARTHSMP • KITPVP • ANARCHIA FFA | 86/1000 | 4 |
+| 30 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  ◄ SURVIVAL ┃ BOXPVP ┃ SKYBLOCK ┃ SKYGEN ► | 80/81 | 3 |
