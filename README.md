@@ -1,21 +1,21 @@
 
 # Lista serwerów minecraft
 Dane z [lista serwerów minecraft](https://mcserwery.pl/)
-Ostatnia aktualizacja 2025-07-03 21:14
+Ostatnia aktualizacja 2025-07-03 22:14
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 463/2000 | 68 |
-| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 583/500 | 154 |
-| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA SURVIVAL 1.21.5 JUż WYSTARTOWALA! | 1817/2000 | 512 |
-| 4 | 	[clearmc.pl](https://mcserwery.pl/serwery/minecraft/194/) | ★ CLEARMC.PL ↔ NAJWIęKSZY DUELS W POLSCE ★ EVENT NA ANARCHIA FFA  ODBIERZ /START !!! | 871/3000 | 243 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 402/2000 | 68 |
+| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 601/500 | 154 |
+| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SkyBlock 1.12.2 start PIATEK 18:00! | 2031/2000 | 512 |
+| 4 | 	[clearmc.pl](https://mcserwery.pl/serwery/minecraft/194/) | ★ CLEARMC.PL ↔ NAJWIęKSZY DUELS W POLSCE ★ EVENT NA ANARCHIA FFA  ODBIERZ /START !!! | 1030/3000 | 243 |
 | 5 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & KretMC.pl  ItemShop » kretmc.pl & Legendarna skrzynia została ulepszona! | 52/1000 | 84 |
-| 6 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » JUZ JUTRO OGROMNY UPDATE BOхPVP [🗡] WYDARZENIE PIRACKIE NA ANARCHIA ѕMP [🗡] | 10326/10326 | 38 |
+| 6 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » JUZ JUTRO OGROMNY UPDATE BOхPVP [🗡] WYDARZENIE PIRACKIE NA ANARCHIA ѕMP [🗡] | 10737/10737 | 38 |
 | 7 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | KOCIAKMC.PL 🚀 [SV+EKO+DZIAŁKI 1.21.4] 🎁 Nowe kosmetyki już są! Sprawdź na /kosmetyki | 84/180 | 34 |
-| 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 574/575 | 29 |
-| 9 | 	[pykmc.pl](https://mcserwery.pl/serwery/minecraft/276/) | ⚡ PYKMC.PL → DOLACZ DO DC.PYKMC.PL ⚡ PYKNIJ NA NAJLEPѕZY ѕERWER [1.16.5-1.21.3] | 704/704 | 21 |
+| 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 584/585 | 29 |
+| 9 | 	[pykmc.pl](https://mcserwery.pl/serwery/minecraft/276/) | ⚡ PYKMC.PL → DOLACZ DO DC.PYKMC.PL ⚡ PYKNIJ NA NAJLEPѕZY ѕERWER [1.16.5-1.21.3] | 674/674 | 21 |
 | 10 | 	[gc2.pl](https://mcserwery.pl/serwery/minecraft/107/) | -- IP: GC2.PL -- ORYGINALNE TRYBY - NIEPRZERWANIE OD 2013r - | 19/2020 | 19 |
-| 11 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ☚ KTóREGO WOJANKA WYBIERAsZ? DODANO sKRZYNIE WOJANKóW NA sERWER! | 291/2000 | 19 |
-| 12 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ Zaczął się EVENT WAKACYJNY na BoXPvP i SkyGen! | 79/1337 | 18 |
+| 11 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ☚ KTóREGO WOJANKA WYBIERAsZ? DODANO sKRZYNIE WOJANKóW NA sERWER! | 277/2000 | 19 |
+| 12 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ Zaczął się EVENT WAKACYJNY na BoXPvP i SkyGen! | 59/1337 | 18 |
 | 13 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | 🔪 BFSMC.PL - Survival, OneBlock 1.21.4 🔪 NOWA EDYCJA EKO JUŻ Z A C H W I L E | 155/500 | 17 |
 | 14 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | CraftBlock.pl » Survival 1.21.4 ¦ BedWars ¦ Zapraszamy do wspólnej gry na serwerze! | 234/400 | 14 |
 | 15 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × NAJLEPSZE CHESTPVP! ♥ EARTHSMP ➦ NOWA EDYCJA W SOBOTE GODZ. 18:00! ★ | 1754/5000 | 12 |
@@ -29,8 +29,8 @@ Ostatnia aktualizacja 2025-07-03 21:14
 | 23 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 384/2000 | 5 |
 | 24 | 	[bedwarspractice.club](https://mcserwery.pl/serwery/minecraft/283/) | Bedwars Practice [1.8-1.21.6] NEW QUESTS! | 226/1 | 5 |
 | 25 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 148/500 | 5 |
-| 26 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! Graj tak jak Ci wygodnie. Dołącz teraz! | 66/1000 | 5 |
-| 27 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Update OG SKYGEN juz jest! WAKACYJY SEZON BedWars wystartowal! | 3254/20000 | 4 |
-| 28 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: WIELKA PROMOCJA! ❤ » -30% NA RANGI I PAKIETY! sklep.cpvp.pl ❤ | 560/1000 | 4 |
-| 29 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL → DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁  JUż DZISIAJ STARTUJE EVENT PIRACKI WBIJAJ! | 67/1000 | 4 |
-| 30 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY TRYB KITPVP PIĄTEK 19:00 | 116/300 | 4 |
+| 26 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! Graj tak jak Ci wygodnie. Dołącz teraz! | 80/1000 | 5 |
+| 27 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Update OG SKYGEN juz jest! WAKACYJY SEZON BedWars wystartowal! | 4123/20000 | 4 |
+| 28 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: WIELKA PROMOCJA! ❤ » -30% NA RANGI I PAKIETY! sklep.cpvp.pl ❤ | 580/1000 | 4 |
+| 29 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL → DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁  JUż DZISIAJ STARTUJE EVENT PIRACKI WBIJAJ! | 57/1000 | 4 |
+| 30 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY TRYB KITPVP PIĄTEK 19:00 | 98/300 | 4 |
